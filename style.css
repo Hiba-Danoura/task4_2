@@ -1,0 +1,21 @@
+#hero{
+    background-color: rgb(16, 190, 190);
+}
+.Leaders{
+    background-image: url(./assets/img/1b2cba32e5e7c1d84bce6104fedf797a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-item {
+    height: 32rem;
+    background-color: #adb3b9;
+}
+
+
+.Education .Education-box{
+    margin-top: 30px0;
+    position: relative;
+    padding: 40px 30px;
+}
+
